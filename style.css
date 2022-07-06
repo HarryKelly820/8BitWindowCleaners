@@ -93,7 +93,28 @@ button:hover {
 }
 
 .font-large {
-    font-size: 30px;
+    font-size: 25px;
 }
 
-.hide-small{display:none!important}
+.font-small {
+    font-size: 15px;
+}
+
+.right{
+    float: right;
+}
+
+.left{
+    float: left;
+}
+
+.text {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 500;
+    color: #ecf0f1;
+    text-decoration: none;
+} 
+
+.hide-small{
+    display:none
+}
